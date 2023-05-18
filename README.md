@@ -15,4 +15,4 @@ The kNN algorithm is implemented to classify the asteroids. The algorithm determ
 The performance of the kNN model is evaluated using appropriate metrics such as accuracy, precision, recall, and F1 score. Cross-validation techniques may be employed to assess the model's generalization capabilities.
 
 - Visualization
-The project utilizes data visualization techniques to provide insights into the distribution of asteroid classes, decision boundaries of the kNN model, or other visually informative representations
+The project utilizes data visualization techniques to provide insights into the distribution of asteroid classes, decision boundaries of the kNN model, or other visually informative representations.
