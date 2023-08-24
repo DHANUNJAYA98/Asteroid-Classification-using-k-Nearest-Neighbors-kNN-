@@ -9,7 +9,7 @@ The project includes comprehensive data preprocessing steps to clean and transfo
 Relevant features are extracted from the asteroid dataset to capture important characteristics of each asteroid. Feature extraction techniques may involve dimensionality reduction, statistical calculations, or domain-specific knowledge.
 
 - k-Nearest Neighbors Algorithm
-The kNN algorithm is implemented to classify the asteroids. The algorithm determines the class of a test asteroid by considering the k closest training asteroids in the feature space.
+The kNN algorithm is implemented to classify the asteroids. The algorithm determines the class of a test asteroid by considering the k closest training asteroids in the feature space
 
 - Model Evaluation
 The performance of the kNN model is evaluated using appropriate metrics such as accuracy, precision, recall, and F1 score. Cross-validation techniques may be employed to assess the model's generalization capabilities.
