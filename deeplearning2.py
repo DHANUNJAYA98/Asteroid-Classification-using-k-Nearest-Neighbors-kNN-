@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[2]:
 
 
 import pandas as pd
@@ -35,7 +32,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-# Allow us to use tensorflow
+
 import tensorflow as tf
 from tensorflow import keras
 from keras.models import Sequential
@@ -569,7 +566,7 @@ Model_Selection.index+=1
 Model_Selection
 
 
-# In[ ]:
+
 
 
 
